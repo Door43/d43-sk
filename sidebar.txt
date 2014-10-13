@@ -10,6 +10,10 @@
   * [[sk:obs|Open Bible Stories (sk)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sk|d43-sk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sk/archive/master.zip|d43-sk.zip]]
+
 **Recent Changes**
 {{changes>ns = sk}}
 
